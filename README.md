@@ -2,7 +2,7 @@
 😈This code will help you find roblox groups without an owner😈
 
 > [!WARNING]
-> we recommend running the script as an administrator.
+> We recommend running the script as an administrator.
 
 The code takes the random IDs of the roblox groups, and then checks:
 * The group has an owner
