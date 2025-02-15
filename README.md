@@ -8,7 +8,7 @@ The code takes the random IDs of the roblox groups, and then checks:
 * The group has an owner
 * A group without an owner, but there is no way to join it
 * Error
-* A group without an owner and it is not allowed to join
+* A group without an owner and it is allowed to join
 
 > [!IMPORTANT]
 > All groups that do not suit us are marked in red in the terminal, and the groups that do are marked in green.
